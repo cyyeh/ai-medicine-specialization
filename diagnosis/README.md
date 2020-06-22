@@ -48,7 +48,7 @@ with Uncertainty Labels and Expert Comparison](https://arxiv.org/pdf/1901.07031.
 
 ### Project
 
-- [Chest X-Ray Medical Diagnosis with Deep Learning](https://github.com/cyyeh/ai-medicine-specialization/blob/master/diagnosis/project/Chest%20X-Ray%20Medical%20Diagnosis.ipynb)
+- [Chest X-Ray Medical Diagnosis with Deep Learning](https://github.com/cyyeh/ai-medicine-specialization/blob/master/diagnosis/projects/project1/Chest%20X-Ray%20Medical%20Diagnosis.ipynb)
 
 ## Week 2, Evaluating models
 
@@ -96,6 +96,10 @@ with Uncertainty Labels and Expert Comparison](https://arxiv.org/pdf/1901.07031.
   ![](https://i.imgur.com/9iTpKac.png)
   ![](https://i.imgur.com/qZ1HOIb.png)
 </details>
+
+### Project
+
+- [Evaluation of Diagnostic Models](https://github.com/cyyeh/ai-medicine-specialization/blob/master/diagnosis/projects/project2/Diagnostic-Model-Evaluation.ipynb)
 
 ## Week 3, Image segmentation on MRI images
 
