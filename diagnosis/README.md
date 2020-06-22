@@ -59,6 +59,26 @@ with Uncertainty Labels and Expert Comparison](https://arxiv.org/pdf/1901.07031.
 - Calculate Positive Predictive Value (PPV) and Negative Predictive Value (NPV).
 - Understand confidence intervals, ROC curve, and F1 score.
 
+### Key Points
+
+**Accuracy**
+![](https://i.imgur.com/O6pndP6.png)
+
+**PPV, NPV, Sensitivity, Specificity**
+![](https://i.imgur.com/kRUqrHI.png)
+
+**Confusion Matrix**
+![](https://i.imgur.com/Y3nDb1A.png)
+
+![](https://i.imgur.com/vptQoue.png)
+
+**Confidence Interval**
+![](https://i.imgur.com/jBjcKPu.png)
+
+![](https://i.imgur.com/pE54OKq.png)
+
+![](https://i.imgur.com/3uQZipw.png)
+
 ### Quiz
 
 <details>
