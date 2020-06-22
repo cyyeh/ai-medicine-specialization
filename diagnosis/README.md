@@ -9,6 +9,14 @@
 - Implement a weighted loss function to address class imbalance.
 - Set up a pre-trained neural network to make disease predictions on chest x-rays.
 
+### Key Points
+
+**Model Training**
+![](https://i.imgur.com/CN0OQsu.png)
+
+**Model Testing**
+![](https://i.imgur.com/Bn9IPXW.png)
+
 ### Papers
 
 - [Dermatologist-level classification of skin cancer with deep neural networks](https://www.nature.com/articles/nature21056)
@@ -18,14 +26,6 @@
 - [CheXpert: A Large Chest Radiograph Dataset
 with Uncertainty Labels and Expert Comparison](https://arxiv.org/pdf/1901.07031.pdf)
 - [Deep learning for chest radiograph diagnosis: A retrospective comparison of the CheXNeXt algorithm to practicing radiologists](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002686)
-
-### Key Points
-
-Model Training
-![](https://i.imgur.com/CN0OQsu.png)
-
-Model Testing
-![](https://i.imgur.com/Bn9IPXW.png)
 
 ### Quiz
 
