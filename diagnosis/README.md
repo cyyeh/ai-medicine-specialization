@@ -25,6 +25,24 @@ Model Training
 Model Testing
 ![](https://i.imgur.com/Bn9IPXW.png)
 
+**Quiz**
+
+<details>
+  <summary>Answers</summary>
+  
+  ![](https://i.imgur.com/m6lKM3P.png)
+  ![](https://i.imgur.com/01Tlpi9.png)
+  ![](https://i.imgur.com/7no4M1K.png)
+  ![](https://i.imgur.com/iNN3S3t.png)
+  ![](https://i.imgur.com/PZuvOI0.png)
+  ![](https://i.imgur.com/08wdHXJ.png)
+  ![](https://i.imgur.com/cjzIxww.png)
+  ![](https://i.imgur.com/AC7XYPt.png)
+  ![](https://i.imgur.com/4qRFCRS.png)
+  ![](https://i.imgur.com/XCB7rEK.png)
+  ![](https://i.imgur.com/XCAQFXB.png)
+</details>
+
 
 ### Week 2, Evaluating models
 
