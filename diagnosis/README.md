@@ -111,3 +111,29 @@ with Uncertainty Labels and Expert Comparison](https://arxiv.org/pdf/1901.07031.
 - Apply a pre-trained U-Net model.
 - Implement a proper loss function for model training (soft dice loss).
 - Evaluate model performance by calculating sensitivity and specificity.
+
+
+### Papers
+
+- [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf)
+    - [Introduction 1](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
+    - [Introduction 2](https://towardsdatascience.com/u-net-b229b32b4a71)
+- [3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation](https://arxiv.org/pdf/1606.06650.pdf)
+
+### Quiz
+
+<details>
+  <summary>Answers</summary>
+  
+  ![](https://i.imgur.com/w825ui5.png)
+  ![](https://i.imgur.com/DDCIq2K.png)
+  ![](https://i.imgur.com/O8kKk2I.png)
+  ![](https://i.imgur.com/k2WBMUh.png)
+  ![](https://i.imgur.com/FGiozV6.png)
+  ![](https://i.imgur.com/Pr02Ojl.png)
+  ![](https://i.imgur.com/lmHB2H1.png)
+  ![](https://i.imgur.com/LJDvGnM.png)
+  ![](https://i.imgur.com/f5jRnGt.png)
+  ![](https://i.imgur.com/V3U8Yth.png)
+  ![](https://i.imgur.com/TB60FH1.png)
+</details>
