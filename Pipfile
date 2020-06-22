@@ -13,6 +13,9 @@ seaborn = "*"
 tensorflow = "*"
 jupyterlab = "*"
 keras = "*"
+nibabel = "*"
+itk = "*"
+itkwidgets = "*"
 
 [requires]
 python_version = "3.6"
