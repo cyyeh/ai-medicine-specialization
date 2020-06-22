@@ -17,6 +17,15 @@
 - [Fundus photograph-based deep learning algorithms in detecting diabetic retinopathy](https://www.nature.com/articles/s41433-018-0269-y)
 - [Impact of Deep Learning Assistance on the Histopathologic Review of Lymph Nodes for Metastatic Breast Cancer](https://pubmed.ncbi.nlm.nih.gov/30312179/)
 
+**Key Points**
+
+Model Training
+![](https://i.imgur.com/CN0OQsu.png)
+
+Model Testing
+![](https://i.imgur.com/Bn9IPXW.png)
+
+
 ### Week 2, Evaluating models
 
 > By the end of this week, you will practice implementing standard evaluation metrics to see how well a model performs in diagnosing diseases....
