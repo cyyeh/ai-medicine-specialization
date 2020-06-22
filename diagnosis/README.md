@@ -137,3 +137,7 @@ with Uncertainty Labels and Expert Comparison](https://arxiv.org/pdf/1901.07031.
   ![](https://i.imgur.com/V3U8Yth.png)
   ![](https://i.imgur.com/TB60FH1.png)
 </details>
+
+### Project
+
+- [Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)](https://github.com/cyyeh/ai-medicine-specialization/blob/master/diagnosis/projects/project3/Brain-Tumor-Auto-Segmentation-MRI.ipynb)
