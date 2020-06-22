@@ -59,6 +59,24 @@ with Uncertainty Labels and Expert Comparison](https://arxiv.org/pdf/1901.07031.
 - Calculate Positive Predictive Value (PPV) and Negative Predictive Value (NPV).
 - Understand confidence intervals, ROC curve, and F1 score.
 
+### Quiz
+
+<details>
+  <summary>Answers</summary>
+  
+  ![](https://i.imgur.com/kyFiK9L.png)
+  ![](https://i.imgur.com/BkbIiHm.png)
+  ![](https://i.imgur.com/nK0gRcN.png)
+  ![](https://i.imgur.com/bf54OB2.png)
+  ![](https://i.imgur.com/VUASkJc.png)
+  ![](https://i.imgur.com/NjhIKvB.png)
+  ![](https://i.imgur.com/u6KPumg.png)
+  ![](https://i.imgur.com/VS7mVNN.png)
+  ![](https://i.imgur.com/Nvm0z77.png)
+  ![](https://i.imgur.com/9iTpKac.png)
+  ![](https://i.imgur.com/qZ1HOIb.png)
+</details>
+
 ## Week 3, Image segmentation on MRI images
 
 > By the end of this week, you will prepare 3D MRI data, implement an appropriate loss function for image segmentation, and apply a pre-trained U-net model to segment tumor regions in 3D brain MRI images....
