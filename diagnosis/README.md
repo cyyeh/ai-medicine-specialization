@@ -1,5 +1,7 @@
 # AI for Medical Diagnosis
 
+Go to [this website](https://hackmd.io/@cyyeh/ai-medical-diagnosis) for better reading experience.
+
 ## Week 1, Disease detection with computer vision
 
 > By the end of this week, you will practice classifying diseases on chest x-rays using a neural network....
