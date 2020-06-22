@@ -11,13 +11,17 @@
 - Implement a weighted loss function to address class imbalance.
 - Set up a pre-trained neural network to make disease predictions on chest x-rays.
 
-**Papers**
+#### Papers
 
 - [Dermatologist-level classification of skin cancer with deep neural networks](https://www.nature.com/articles/nature21056)
 - [Fundus photograph-based deep learning algorithms in detecting diabetic retinopathy](https://www.nature.com/articles/s41433-018-0269-y)
 - [Impact of Deep Learning Assistance on the Histopathologic Review of Lymph Nodes for Metastatic Breast Cancer](https://pubmed.ncbi.nlm.nih.gov/30312179/)
+- [CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning](https://arxiv.org/pdf/1711.05225.pdf)
+- [CheXpert: A Large Chest Radiograph Dataset
+with Uncertainty Labels and Expert Comparison](https://arxiv.org/pdf/1901.07031.pdf)
+- [Deep learning for chest radiograph diagnosis: A retrospective comparison of the CheXNeXt algorithm to practicing radiologists](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002686)
 
-**Key Points**
+#### Key Points
 
 Model Training
 ![](https://i.imgur.com/CN0OQsu.png)
@@ -25,7 +29,7 @@ Model Training
 Model Testing
 ![](https://i.imgur.com/Bn9IPXW.png)
 
-**Quiz**
+#### Quiz
 
 <details>
   <summary>Answers</summary>
@@ -43,6 +47,10 @@ Model Testing
   ![](https://i.imgur.com/XCAQFXB.png)
 </details>
 
+
+#### Project
+
+- [Chest X-Ray Medical Diagnosis with Deep Learning](https://github.com/cyyeh/ai-medicine-specialization/blob/master/diagnosis/project/Chest%20X-Ray%20Medical%20Diagnosis.ipynb)
 
 ### Week 2, Evaluating models
 
