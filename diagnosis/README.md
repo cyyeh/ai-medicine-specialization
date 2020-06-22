@@ -1,8 +1,6 @@
 # AI for Medical Diagnosis
 
-## Key Concepts by Week
-
-### Week 1, Disease detection with computer vision
+## Week 1, Disease detection with computer vision
 
 > By the end of this week, you will practice classifying diseases on chest x-rays using a neural network....
 
@@ -11,7 +9,7 @@
 - Implement a weighted loss function to address class imbalance.
 - Set up a pre-trained neural network to make disease predictions on chest x-rays.
 
-#### Papers
+### Papers
 
 - [Dermatologist-level classification of skin cancer with deep neural networks](https://www.nature.com/articles/nature21056)
 - [Fundus photograph-based deep learning algorithms in detecting diabetic retinopathy](https://www.nature.com/articles/s41433-018-0269-y)
@@ -21,7 +19,7 @@
 with Uncertainty Labels and Expert Comparison](https://arxiv.org/pdf/1901.07031.pdf)
 - [Deep learning for chest radiograph diagnosis: A retrospective comparison of the CheXNeXt algorithm to practicing radiologists](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002686)
 
-#### Key Points
+### Key Points
 
 Model Training
 ![](https://i.imgur.com/CN0OQsu.png)
@@ -29,7 +27,7 @@ Model Training
 Model Testing
 ![](https://i.imgur.com/Bn9IPXW.png)
 
-#### Quiz
+### Quiz
 
 <details>
   <summary>Answers</summary>
@@ -48,11 +46,11 @@ Model Testing
 </details>
 
 
-#### Project
+### Project
 
 - [Chest X-Ray Medical Diagnosis with Deep Learning](https://github.com/cyyeh/ai-medicine-specialization/blob/master/diagnosis/project/Chest%20X-Ray%20Medical%20Diagnosis.ipynb)
 
-### Week 2, Evaluating models
+## Week 2, Evaluating models
 
 > By the end of this week, you will practice implementing standard evaluation metrics to see how well a model performs in diagnosing diseases....
 
@@ -61,7 +59,7 @@ Model Testing
 - Calculate Positive Predictive Value (PPV) and Negative Predictive Value (NPV).
 - Understand confidence intervals, ROC curve, and F1 score.
 
-### Week 3, Image segmentation on MRI images
+## Week 3, Image segmentation on MRI images
 
 > By the end of this week, you will prepare 3D MRI data, implement an appropriate loss function for image segmentation, and apply a pre-trained U-net model to segment tumor regions in 3D brain MRI images....
 
